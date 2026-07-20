@@ -7,3 +7,4 @@ beautifulsoup
 pyTelegramBotAPI
 python-telegram-bot
 os
+sqlite3
