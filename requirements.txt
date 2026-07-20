@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+openpyxl
+pandas
+openai
+beautifulsoup
+pyTelegramBotAPI
+python-telegram-bot
+os
